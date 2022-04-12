@@ -1,0 +1,10 @@
+/.vscode
+/build
+/dist
+/EncryptedInfo.py
+/ForexSOP.zip
+/main.spec
+/Settings.json
+/test.json
+/test.py
+/__pycache__
